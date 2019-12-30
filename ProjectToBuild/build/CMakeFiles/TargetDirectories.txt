@@ -1,0 +1,11 @@
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/CMakeFiles/edit_cache.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/CMakeFiles/rebuild_cache.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/CMakeFiles/deploy.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/CMakeFiles/basic_example.elf.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/documentation/CMakeFiles/rebuild_cache.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/documentation/CMakeFiles/edit_cache.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/documentation/CMakeFiles/sphinx_doc.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/documentation/CMakeFiles/doxygen_doc.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/Drivers/STM32F4xx_HAL_Driver/Src/CMakeFiles/rebuild_cache.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/Drivers/STM32F4xx_HAL_Driver/Src/CMakeFiles/HAL_LIBRARY.dir
+/home/mariano/Triverlogic/Repositories/uart/ProjectToBuild/build/Drivers/STM32F4xx_HAL_Driver/Src/CMakeFiles/edit_cache.dir
